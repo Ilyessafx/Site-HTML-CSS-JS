@@ -1,0 +1,76 @@
+h1{
+    color:rgb(28, 88, 0)
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    font: large;
+}
+
+body{
+    background-image: url("../images/Capture\ d\'écran\ 2023-11-19\ 182322.png");
+    background-size: cover;
+}
+
+.Navigation{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+
+table{
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#Footer{
+    font-size: 20px;
+    color: rgb(0, 255, 55);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#Bea{
+    width: 15%;
+    height: 90%
+}
+
+#Gregg{
+    width: 15%;
+    height: 90%
+}
+
+#Angus{
+    width: 12%;
+    height: 90%
+}
+
+#Casey{
+    width: 25%;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.swiper-slide {
+    height: 40vh;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #00000070;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
